@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: orange;
+}
+
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(A\ photo\ of\ a\ gamer\'s\ setup.\ There\ is\ a\ gaming\ chai.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+nav img{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: -2%;
+    padding: 40px;
+}
+
+.welcome p{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.navlinks li{
+    display: inline-flex;
+    padding: 10px;
+    margin-left: 8%;
+}
+
+nav a{
+    list-style: none;
+    text-decoration: none;
+    margin: 25px;
+    color: black;
+}
+
+footer{
+    margin-top: 10%;
+    text-align: center;
+    color: black;
+    padding-bottom: 3%;
+}
